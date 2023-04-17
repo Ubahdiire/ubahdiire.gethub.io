@@ -10,11 +10,11 @@ body {
   text-transform: uppercase;
   border-top: 1px solid ;
   border-bottom: 1px solid ;
-  background-color: rgba(0,0,0,0.1)
+ background: rgba(0, 1, 0, 0.3) /* Green background with 30% opacity */
 }
 
 body{
-  background-color: green;
+  background-color: Green;
 }
 
 .header{
