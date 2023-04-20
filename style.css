@@ -1,6 +1,6 @@
 body {
   background-color: #3333;
-    color: #ddddddd;
+    color: #ddddd;
     font-family: Times New Roman, Georgia, sans-serif;
     margin: 10% 10%
 }
@@ -8,17 +8,20 @@ body {
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid ;
-  border-bottom: 1px solid ;
- background: rgba(0, 1, 0, 0.3) /* Green background with 30% opacity */
+  border-top: 1px outset ;
+  border-bottom: 1px dotted ;
+background-color: rgba(85, 107, 47)
 }
 
 body{
   background-color: Green;
 }
+a {
+  color:Yellow;
+}
 
 .header{
   text-align: center;
-  color: black;
+  color: Black;
   text: bold;
 }
